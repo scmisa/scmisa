@@ -16,12 +16,20 @@ Right know I'm focusing on Rust while doing webdev exercises.
 ✅React
 
 ### To Learn:
-❌Rust
-❌Dart
-❌FLutter
-❌ Rust's Frameworks
+- [x] Rust (In progress)
+- [ ] Dart
+- [ ] FLutter
+- [x] Rust's Frameworks (In progress)
 
 ### Projects done:
-❌To Do App
-❌Weather App
-🔹"Portfolio" App (In development)
+- [ ] To Do App
+- [ ] Weather App
+- [ ] "Portfolio" App (In development)
+
+*I also like to learn other type of languages :P*
+- [ ] Korean
+- [ ] Spanish
+- [ ] Japanese
+- [ ] German
+
+
