@@ -7,19 +7,19 @@ Right know I'm focusing on Rust while doing webdev exercises.
 
 ### Summary:
 
-- ❌C++
-- ❌C# (to Unity)
-- ❌Unity
-- ✅HTML
-- ✅CSS
-- ✅JS
-- ✅React
+- [ ] C++
+- [ ] C# (to Unity)
+- [ ] Unity
+- [x] HTML
+- [x] CSS
+- [x] JS
+- [x] React
 
 ### To Learn:
 - [ ] Rust (In progress)
 - [ ] Rust's Frameworks (In progress)
 - [ ] Dart
-- [ ] FLutter
+- [ ] Flutter
 
 ### Projects done:
 - [ ] To Do App
