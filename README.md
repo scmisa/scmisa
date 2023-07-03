@@ -24,15 +24,5 @@ Right know I'm focusing on Rust while doing webdev exercises.
 - [ ] Dart
 - [ ] Flutter
 
-### Projects done:
-- [ ] To Do App
-- [ ] Weather App
-- [ ] "Portfolio" App (In development)
-
-*I also like to learn other type of languages :P*
-- [ ] Korean (In progress)
-- [ ] Spanish
-- [ ] Japanese
-- [ ] German
 
 
