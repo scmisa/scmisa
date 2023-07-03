@@ -20,7 +20,7 @@ Right know I'm focusing on Rust while doing webdev exercises.
 
 ### To Learn:
 - [ ] Rust (In progress)
-- [ ] Rust's Frameworks (In progress)
+- [ ] Rust [Leptos](https://github.com/leptos-rs/leptos) (In progress)
 - [ ] Dart
 - [ ] Flutter
 
