@@ -8,21 +8,4 @@ Right know I'm focusing on Rust while doing webdev exercises.
 ![scMisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=scmisa&show_icons=true&theme=transparent)
 
 
-### Summary:
-
-- [ ] C++
-- [ ] C# (to Unity)
-- [ ] Unity
-- [x] HTML
-- [x] CSS
-- [x] JS
-- [x] React
-
-### To Learn:
-- [ ] Rust (In progress)
-- [ ] Rust [Leptos](https://github.com/leptos-rs/leptos) (In progress)
-- [ ] Dart
-- [ ] Flutter
-
-
 
