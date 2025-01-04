@@ -12,8 +12,3 @@
 - 👯 I’m looking to collaborate on [Game Engine](https://github.com/scmisa/game-engine-opengl)
 
 - 📝 I regularly write articles on [mvxd.net](mvxd.net)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
