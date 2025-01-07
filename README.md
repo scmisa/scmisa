@@ -12,3 +12,5 @@
 - 👯 I’m looking to collaborate on [Game Engine](https://github.com/scmisa/game-engine-opengl)
 
 - 📝 I regularly write articles on [mvxd.net](mvxd.net)
+
+- I'm also interested in Cybersecurity , Deep Learning and AI
