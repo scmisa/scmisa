@@ -15,4 +15,4 @@
 
 - I'm also interested in Cybersecurity , Deep Learning and AI
 
-[![scmisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=scmisa)](https://github.com/scmisa/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&hide=javascript,css,scss,html&theme=tokyonight)
