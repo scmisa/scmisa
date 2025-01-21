@@ -15,4 +15,5 @@
 
 - I'm also interested in Cybersecurity , Deep Learning and AI
 
+<h4>My Coding stats:</h4>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&hide=javascript,css,scss,html,dockerfile,batchfile,makefile,shell&theme=tokyonight)
