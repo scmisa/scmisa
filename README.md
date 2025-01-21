@@ -14,3 +14,5 @@
 - 📝 I regularly write articles on [mvxd.net](mvxd.net)
 
 - I'm also interested in Cybersecurity , Deep Learning and AI
+
+[![scmisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=scmisa)](https://github.com/scmisa/github-readme-stats)
