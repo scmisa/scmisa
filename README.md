@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Game Engine in OpenGL(maybe later in Vulcan)](https://github.com/scmisa/game-engine-opengl)
+- 🔭 I’m currently working on Game Engine in OpenGL
 
 - 🌱 I’m currently learning **C++, OpenGL, Vulcan**
 
