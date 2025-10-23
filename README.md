@@ -1,20 +1,3 @@
-<!-- 
-  GitHub Profile README Template
-  
-  📝 Customization Guide:
-  1. Update the social media links in the "Connect with Me" section
-  2. Modify the email address to your actual email
-  3. Adjust the tech stack badges to match your skills
-  4. Customize the "About Me" section with your information
-  5. Edit the typing animation messages in the header
-  
-  All GitHub stats and badges will automatically update based on your activity!
--->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+It's+scmisa+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=scmisa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
@@ -77,12 +60,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scmisa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakuboleszczuk@protonmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
