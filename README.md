@@ -64,14 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scmisa&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Activity
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
