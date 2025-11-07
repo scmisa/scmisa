@@ -1,5 +1,4 @@
-## 👨‍💻 Hi, I'm Jakub, Computer Science student
-### Radom University
+## 👨‍💻 Hi, I'm Jakub, Computer Science student from University of Radom
 
 ## 🛠️ Tech Stack
 
