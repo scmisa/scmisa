@@ -12,8 +12,5 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=scmisa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&layout=compact&theme=radical&hide_border=true&hide=tex,html,jupyter" alt="Top Languages" height="170" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&layout=compact&theme=radical&hide_border=true&hide=tex,html,jupyter" alt="Top Languages" height="170" />
 
