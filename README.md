@@ -11,5 +11,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&layout=compact&theme=radical&hide_border=true&hide=tex,html,jupyter)
