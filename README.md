@@ -49,4 +49,15 @@
     />
     <img src="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true" />
   </picture>
+   <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" />
+  </picture>
 </p>
