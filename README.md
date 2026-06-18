@@ -44,6 +44,6 @@
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&layout=compact&theme=transparent&hide_border=true&hide=javascript,typescript,css,scss,html,jupyter%20notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&layout=compact&theme=transparent&hide_border=true&hide=javascript,typescript,css,scss,html,TeX,Shell,CMake,Batchfile,Makefile,jupyter%20notebook"
   />
 </p>
