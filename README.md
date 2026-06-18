@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student • Backend & Systems Programming</h3>
 
 <p align="center">
-  <b>Interested in Rust, Cybersecurity, Linux, and Performance-Oriented Software</b>
+  <b>🦀 Building reliable software with Rust • 🐧 Linux enthusiast • ⚡ Interested in backend systems and cybersecurity</b>
 </p>
 
 ---
@@ -27,40 +27,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white" alt="Tokio" />
-  <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge" alt="Axum" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-<h4 align="center">My Coding Stats:</h4>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true" />
-  </picture>
-   <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" />
-  </picture>
-</p>
+<h4 align="center">My Coding Stats:</h4> 
+<p align="center"> <picture> <source srcset="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true" /> </picture> <picture> <source srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" /> </picture> </p>
