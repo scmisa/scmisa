@@ -37,4 +37,13 @@
 ---
 
 <h4 align="center">My Coding Stats:</h4> 
-<p align="center"> <picture> <source srcset="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats-fast.vercel.app/api?username=scmisa&show_icons=true" /> </picture> <picture> <source srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=scmisa" /> </picture> </p>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=scmisa&show_icons=true&theme=transparent&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmisa&layout=compact&theme=transparent&hide_border=true&hide=javascript,typescript,css,scss,html,jupyter%20notebook"
+  />
+</p>
